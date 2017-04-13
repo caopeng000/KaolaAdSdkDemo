@@ -32,6 +32,9 @@
         <meta-data
             android:name="kl_ad_app_id"
             android:value="91032253a3fc4d7883cc11ec49c832f9" />
+			
+			
+			
         <!--广告渠道-->
         <!--<meta-data-->
         <!--android:name="kl_ad_channel"-->
